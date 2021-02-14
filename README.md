@@ -1,3 +1,3 @@
 # Keras
 
-A repository to hols
+A repository to hold sample projects learnt as part of Udacity's project
